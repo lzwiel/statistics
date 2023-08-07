@@ -1,4 +1,3 @@
-python
 import statistics
 
 # 输入一组数字
